@@ -1,1 +1,0 @@
-# MedfordChessClub.github.io
