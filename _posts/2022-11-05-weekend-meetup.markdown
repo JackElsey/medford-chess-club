@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "a balmy November day"
+title:  "1. e4 e5"
 date:   2022-11-05
 ---
 
