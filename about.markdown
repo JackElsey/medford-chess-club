@@ -8,7 +8,7 @@ permalink: /about/
 
 Drop by for a friendly game of chess in beautiful Medford, Massachusetts!
 
-We have chess sets, chess clocks, and helpful members who are willing to teach you the rules if you're new to the game. There are no membership dues or fees to play.
+We have chess sets, chess clocks, and helpful members who are willing to teach you the rules if you're new to the game. There are no membership dues or fees to play. Aspiring chess masters of any age are welcome to play, although young children need to have a parent or mature older sibling present.
 
 We currently meet every Saturday at 1 pm. If the weather is nice we play in the gazebo behind the Saltonstall Building at 121 Riverside Ave ([map](https://goo.gl/maps/yofzXWtNm7sn751X9)). If it's rainy or cold we'll play at the [Medford Public Library](https://medfordlibrary.org/).
 
