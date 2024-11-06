@@ -8,7 +8,7 @@ permalink: /about/
 
 Drop by for a friendly game of chess in beautiful Medford, Massachusetts!
 
-We have chess sets, chess clocks, and helpful members who are willing to teach you the rules if you're new to the game. There are no membership dues or fees to play. Aspiring chess masters of any age are welcome to play, although young children need to have a parent or mature older sibling present.
+We have chess sets, chess clocks, and helpful members who are willing to teach you the rules if you're new to the game. There are no membership dues or fees to play. Aspiring chess masters of any age are welcome, although young children need to have a parent or mature older sibling present.
 
 We currently meet every Saturday. We've been playing at the [Medford Public Library](https://medfordlibrary.org/) recently, but check this website before heading out to make sure the location hasn't changed.
 
