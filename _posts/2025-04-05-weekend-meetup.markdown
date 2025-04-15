@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "01. e4 e6"
+title:  "1. e4 e6"
 date:   2025-04-05
 ---
 
