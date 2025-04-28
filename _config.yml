@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Learn the game or hone your skill at friendly weekly meetups.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/MCC_logo.svg" # Site logo
+logo: "/assets/MCC_logo.png" # Site logo
 encoding: utf-8
 
 # Build settings
