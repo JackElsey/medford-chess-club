@@ -12,3 +12,39 @@ title: false
 .logo {
   overflow: visible;
 }
+
+nav.site-nav {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+}
+
+header {
+  position: relative;
+}
+
+.logo img {
+  height: 300px;
+  width: 200px;
+}
+
+.logo {
+  overflow: visible;
+  text-align: center;
+}
+
+/* Default for big screens */
+nav.nav {
+  position: absolute;
+  top: 20px;
+  right: 200px;
+}
+
+/* Fix for smaller screens */
+@media (max-width: 850px) {
+  nav.nav {
+    right: 20px;
+    top: 10px;
+  }
+}
+
